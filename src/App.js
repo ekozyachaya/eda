@@ -18,7 +18,7 @@ class App extends Component {
         <div class="menu">
                   <ul>
                      <li><a href="#">О НАС</a></li>
-                     <li><a href="#">КОНТАКИЫ</a></li>
+                     <li><a href="#">КОНТАКТЫ</a></li>
                   </ul>
                </div>
                </nav>
