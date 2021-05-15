@@ -1,0 +1,33 @@
+.Main {
+    text-align: center;
+    
+  }
+  .Main-back
+{
+    position:fixed;
+    width: 100%;
+    right: 0;
+    background: no-repeat; 
+}
+.Main-header {
+    position: absolute;
+  }
+  
+  .App-logo2{
+    position:fixed;
+    width: 70%;
+    right: 13%;
+    background: no-repeat; 
+    
+  } 
+  .App-things
+  {
+    position:fixed;
+    width: 75%;
+    right: 11%;
+    top: 30%;
+    background: no-repeat; 
+    
+  } 
+  
+ 
